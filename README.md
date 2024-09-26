@@ -1,5 +1,5 @@
 <h3 align="center">
-  <p> ⌛ Simples Conversor de unidades</p>
+  <p> ⌛ <h2 align="center">Sistema simples de <a href="https://www.convertworld.com/pt/"> Conversão de medidas</a> para treino de tecnologias!</h2></p>
   <img 
     src="./assets\img.png"
   />
