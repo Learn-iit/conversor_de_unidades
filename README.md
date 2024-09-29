@@ -4,3 +4,8 @@
     src="./assets\img.png"
   />
 </h2>
+
+### Implantação :
+
+- [ ] Adicionar mais medidas
+- [ ] Hospedar no [**GitHub Pages**](https://pages.github.com/) para uso pessoal.
